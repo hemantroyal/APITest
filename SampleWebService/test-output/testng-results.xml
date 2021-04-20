@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-19T20:45:17 IST" name="Default suite" finished-at="2021-04-19T20:45:18 IST" duration-ms="1144">
+    <groups>
+    </groups>
+    <test started-at="2021-04-19T20:45:17 IST" name="Default test" finished-at="2021-04-19T20:45:18 IST" duration-ms="1144">
+      <class name="webservice.SampleWebService.GetTest">
+        <test-method signature="hitGet()[pri:0, instance:webservice.SampleWebService.GetTest@36b4fe2a]" started-at="2021-04-19T20:45:17 IST" name="hitGet" finished-at="2021-04-19T20:45:18 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hitGet -->
+      </class> <!-- webservice.SampleWebService.GetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
